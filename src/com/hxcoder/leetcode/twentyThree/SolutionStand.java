@@ -3,7 +3,6 @@ package com.hxcoder.leetcode.twentyThree;
 /**
  * 算法思想：分治合并
  *
- * 分支
  * @author hxcoder
  */
 public class SolutionStand {

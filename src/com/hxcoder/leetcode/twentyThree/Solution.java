@@ -22,22 +22,6 @@ package com.hxcoder.leetcode.twentyThree;
 public class Solution {
 
     public static void main(String[] args) {
-        // [[1,4,5],[1,3,4],[2,6]]
-        ListNode a = new ListNode(1);
-        ListNode b = new ListNode(4);
-        ListNode c = new ListNode(5);
-        a.next = b;
-        b.next = c;
-        ListNode d = new ListNode(1);
-        ListNode e = new ListNode(3);
-        ListNode f = new ListNode(4);
-        d.next = e;
-        e.next = f;
-        ListNode g = new ListNode(2);
-        g.next = new ListNode(6);
-        ListNode[] one = new ListNode[]{a, d, g};
-        Solution s = new Solution();
-        s.mergeKLists(one);
     }
 
     public ListNode mergeKLists(ListNode[] lists) {

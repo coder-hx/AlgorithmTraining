@@ -1,5 +1,8 @@
 package com.hxcoder.leetcode.twentyThree;
 
+/**
+ * @author hxcoder
+ */
 public class ListNode {
     int val;
     ListNode next;
