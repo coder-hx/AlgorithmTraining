@@ -5,7 +5,6 @@ package com.hxcoder.offer.easy.twentySeven;
  * 请完成一个函数，输入一个二叉树，该函数输出它的镜像
  *
  * 限制：
- *
  * 0 <= 节点个数 <= 1000
  *
  * @author hxcoder

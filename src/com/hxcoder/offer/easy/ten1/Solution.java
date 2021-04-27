@@ -11,7 +11,6 @@ package com.hxcoder.offer.easy.ten1;
  * 答案需要取模 1e9+7（1000000007），如计算初始结果为：1000000008，请返回 1。
  *
  * 提示：
- *
  * 0 <= n <= 100
  *
  * @author hxcoder
